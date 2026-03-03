@@ -1,0 +1,5 @@
+marca,modelo,tipo,costo,precio_venta,categoria,stock
+Samsung,A50,Incell,15.00,25.00,pantalla,10
+iPhone,11,Original,45.00,65.00,pantalla,5
+Huawei,P30 Lite,AAA,12.00,20.00,pantalla,15
+Generico,Cable USB-C,v8,1.50,5.00,accesorio,50
